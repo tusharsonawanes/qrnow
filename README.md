@@ -1,4 +1,4 @@
-![](.pictures/qr-code2.png)
+![](.pictures/qr-code2.png | width=50)
 # QRNOW
 
 QRNOW is a simple python scipt that reads your excel file and generates QR codes from the same. QRNOW uses pandas to perform operations on the excel file. It also uses [qrcodemonkey-api](https://www.qrcode-monkey.com/qr-code-api-with-logo/) to generate the QR codes.
